@@ -1,0 +1,17 @@
+/Users/alecwaumans/Desktop/Othello-JavaGame/OthelloCommonAlec/src/main/java/message/MessageUndo.java
+/Users/alecwaumans/Desktop/Othello-JavaGame/OthelloCommonAlec/src/main/java/message/Type.java
+/Users/alecwaumans/Desktop/Othello-JavaGame/OthelloCommonAlec/src/main/java/message/MessageRedo.java
+/Users/alecwaumans/Desktop/Othello-JavaGame/OthelloCommonAlec/src/main/java/message/MessageQuit.java
+/Users/alecwaumans/Desktop/Othello-JavaGame/OthelloCommonAlec/src/main/java/common/GameInfo.java
+/Users/alecwaumans/Desktop/Othello-JavaGame/OthelloCommonAlec/src/main/java/common/PositionDTO.java
+/Users/alecwaumans/Desktop/Othello-JavaGame/OthelloCommonAlec/src/main/java/message/MessageInit.java
+/Users/alecwaumans/Desktop/Othello-JavaGame/OthelloCommonAlec/src/main/java/common/Members.java
+/Users/alecwaumans/Desktop/Othello-JavaGame/OthelloCommonAlec/src/main/java/message/MessageProfile.java
+/Users/alecwaumans/Desktop/Othello-JavaGame/OthelloCommonAlec/src/main/java/message/MessageMembers.java
+/Users/alecwaumans/Desktop/Othello-JavaGame/OthelloCommonAlec/src/main/java/message/MessageToRecipient.java
+/Users/alecwaumans/Desktop/Othello-JavaGame/OthelloCommonAlec/src/main/java/message/Message.java
+/Users/alecwaumans/Desktop/Othello-JavaGame/OthelloCommonAlec/src/main/java/message/MessagePlay.java
+/Users/alecwaumans/Desktop/Othello-JavaGame/OthelloCommonAlec/src/main/java/message/MessageReset.java
+/Users/alecwaumans/Desktop/Othello-JavaGame/OthelloCommonAlec/src/main/java/common/User.java
+/Users/alecwaumans/Desktop/Othello-JavaGame/OthelloCommonAlec/src/main/java/common/Config.java
+/Users/alecwaumans/Desktop/Othello-JavaGame/OthelloCommonAlec/src/main/java/message/MessageGameInfo.java

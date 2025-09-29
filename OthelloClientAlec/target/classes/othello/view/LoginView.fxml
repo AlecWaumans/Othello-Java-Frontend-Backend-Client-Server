@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Author: Alec Waumans (2025) -->
+<!-- This FXML defines the login interface for the client application, including fields for email, host, and port, and a connect button. -->
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane fx:controller="client.controller.LoginController"
+          xmlns:fx="http://javafx.com/fxml"
+          alignment="CENTER"
+          hgap="10"
+          vgap="10"
+          style="-fx-padding: 20;">
+
+    <!-- Label and text field for the user's email -->
+    <Label text="Email :" GridPane.rowIndex="0" GridPane.columnIndex="0"/>
+    <TextField fx:id="emailField" text="anonyme@esi.be" GridPane.rowIndex="0" GridPane.columnIndex="1"/>
+
+    <!-- Label and text field for the server host address -->
+    <Label text="Hôte :" GridPane.rowIndex="1" GridPane.columnIndex="0"/>
+    <TextField fx:id="hostField" text="localhost" GridPane.rowIndex="1" GridPane.columnIndex="1"/>
+
+    <!-- Label and text field for the server port number -->
+    <Label text="Port :" GridPane.rowIndex="2" GridPane.columnIndex="0"/>
+    <TextField fx:id="portField" text="12345" GridPane.rowIndex="2" GridPane.columnIndex="1"/>
+
+    <!-- Button to trigger connection handling -->
+    <Button text="Connexion"
+            onAction="#handleConnect"
+            GridPane.rowIndex="3"
+            GridPane.columnIndex="1"
+            GridPane.halignment="RIGHT"/>
+    
+    <Button text="Reset"
+            onAction="#handleReset"
+            GridPane.rowIndex="3"
+            GridPane.columnIndex="1"
+            GridPane.halignment="LEFT"/>
+</GridPane>
